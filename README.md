@@ -9,17 +9,22 @@ In this case, Apple Vision Pro
 
 -Finding a similar innovation from the past. In this case, the PlayStation VR headset.
 
-- Finding data about their sales
-  PSVR Sales Data: https://www.statista.com/statistics/987693/psvr-unit-sales/
+-Finding data about their sales
 
-  Vision Pro Shipments (to identify market potential for estimations): https://www.statista.com/statistics/1398458/apple-vision-pro-shipments/
+  ~ PSVR Sales Data: https://www.statista.com/statistics/987693/psvr-unit-sales/
+
+  ~ Vision Pro Shipments (to identify market potential for estimations): https://www.statista.com/statistics/1398458/apple-vision-pro-shipments/
 
 ## Code implementation
 
 -Bass Model Function: Predicts adoption based on parameters for innovation and imitation.
+
 -Parameter Estimation: Finds optimal values for p,q, M using PSVR sales data.
+
 -Adoption Prediction: Estimates future adoption rates for Apple Vision Pro.
+
 -Visualization: Displays the predicted adoption curve.
+
 -New Adopters Calculation: Shows the number of new adopters each year.
 
 ##Conclusion
